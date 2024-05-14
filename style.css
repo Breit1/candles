@@ -1,0 +1,269 @@
+@font-face {
+  font-display: swap;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+}
+
+  .fon1{
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  
+  .main-menu-link{
+      font-size: 20px;
+  }
+
+  .main-menu{
+    position: absolute;
+    margin-top: -30px;
+    right: 100px;
+  }
+  a {text-decoration: none; 
+    color: #122947; 
+    flex-wrap: wrap;
+    margin-left: 20px;
+    
+  } 
+  a:hover {
+    color: #252525;
+  }
+
+  .fon{
+    width: 100%;
+    height: 650px;
+    background-image: url(image/fon1.jpg);
+    overflow: hidden;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: "Raleway";
+    background-color: #F8F8F6;
+  }
+  
+  header {
+    margin: 0;
+  }
+
+  .logo{
+    margin-top: 15px;
+    margin-left: 80px;
+  }
+
+  .svecha{
+    margin-left: 23px;
+  }
+  
+  .fon2{
+    width: 100%;
+    height: 400px;
+    background-color: #F8F8F6;
+    margin-top: 150px;
+  }
+
+  .bestellers{
+    position: absolute;
+    font-size: 30px;
+    margin-top: 150px;
+    margin-left: 100px;
+    color: #122947;
+
+  }
+  .bestellers-blocks{
+    display: flex;
+    flex-wrap: nowrap;
+    height: 300px;
+    margin-left: 350px;
+    
+  }
+
+  .text-bestellers{
+    font-size: 18px;
+    max-width: 220px;
+    margin-top: 10px;
+    line-height: 1.5;
+    
+  }
+
+  .text-smotr{
+    font-size: 16px;
+    margin-top: 15px;
+  }
+
+  .block1{
+    margin-left: 20px;
+    background-color: #D9D9D9;
+    width: 247px;
+    height: 345px;
+    text-align: center;
+  }
+
+  .podrob{
+      margin-top: 20px;
+      font-size: 13px;
+  }
+
+  .line{
+    width: 70px;
+  }
+
+  .strelki{
+    width: 100px;
+    height: 100px;
+    margin-top: 85px;
+    margin-left: 89%;
+  }
+
+  .fon3{
+    margin-top: 100px;
+    width: 100%;
+    height: 398px;
+    background-color: #A2968694;
+
+  }
+
+  .fon3-zag{
+    margin-top: -350px;
+    margin-left: 850px;
+    font-size: 36px;
+    max-width: 329px;
+  }
+
+  .fon3-txt1{
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  .border-txt2{
+    border: 1px solid #8197AD;
+    width: 90px;
+    padding: 10px;
+    border-radius: 2px;
+  }
+
+  .fon3-txt2{
+    font-size: 16px;
+    margin-top: 20px;
+    padding: 10px;
+  }
+
+  .border-smotr{
+    border: 1px solid #8197AD;
+    width: 110px;
+    padding: 10px;
+    border-radius: 2px;
+  }
+  
+  .fon4{
+    width: 100%;
+    height: 150px;
+    background-color: #F8F8F6;
+  }
+
+  .fon5{
+    width: 100%;
+    height: 433px;
+    background-image: url(image/fon5.svg);
+    
+  }
+
+  .zag-txt5{
+    text-align: center;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    
+  }
+
+  .history{
+    text-align: center;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 300px;
+    
+  }
+
+  .border-history{
+    border: 1px solid #8197AD;
+    width: 114px;
+    padding: 10px;
+    border-radius: 2px;
+  }
+
+  .fon6{
+    width: 100%;
+    height: 700px;
+    background-color: #F8F8F6;
+  }
+
+  .cart6{
+    margin-top: 180px;
+    margin-left: 100px;
+    
+  }
+
+  .zag-txt6{
+    font-size: 32px;
+    margin-top: -400px;
+    margin-left: 900px;
+  }
+
+  .txt6{
+    font-size: 18px;
+    margin-top: 30px;
+    max-width: 381px;
+  }
+
+  .subscribe{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 40px;
+
+  }
+
+  .border-subscribe{
+    border: 1px solid #8197AD;
+    width: 114px;
+    padding: 10px;
+    border-radius: 2px;
+  }
+
+  footer{
+    background-color: #F4F1ED;
+    width: 100%;
+    height: 286px;
+    margin-top: 150px;
+  }
+
+  .logo-footer{
+    width: 8%;
+    margin-top: 60px;
+    margin-left: 80px;
+  }
+
+  .list-footer{
+    margin-top: -24px;
+    margin-left: 250px;
+  }
+
+  .prava{
+    margin-top: 100px;
+    margin-left: 80px;
+  }
+ 
+
+
+
+
+
+
